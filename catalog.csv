@@ -1,0 +1,59 @@
+name,category,price_naira,specs,stock,warranty_months
+Samsung Galaxy S26 Ultra,Smartphone,1450000,6.8" Dynamic AMOLED / Snapdragon 8 Elite / 12GB RAM / 512GB,3,12
+Samsung Galaxy S26,Smartphone,980000,6.2" Dynamic AMOLED / Snapdragon 8 Elite / 8GB RAM / 256GB,5,12
+Samsung Galaxy S25 Ultra,Smartphone,1250000,6.8" Dynamic AMOLED / Snapdragon 8 Elite / 12GB RAM / 256GB,4,12
+Samsung Galaxy S25,Smartphone,850000,6.2" Dynamic AMOLED / Snapdragon 8 Elite / 8GB RAM / 256GB,6,12
+Samsung Galaxy S24 Ultra,Smartphone,890000,6.8" Dynamic AMOLED / Snapdragon 8 Gen 3 / 12GB RAM / 256GB,4,12
+Samsung Galaxy S24,Smartphone,720000,6.2" Dynamic AMOLED / Snapdragon 8 Gen 3 / 8GB RAM / 256GB,7,12
+Samsung Galaxy A56 5G,Smartphone,320000,6.7" Super AMOLED / Exynos 1580 / 8GB RAM / 256GB,10,12
+Samsung Galaxy A36 5G,Smartphone,245000,6.6" Super AMOLED / Snapdragon 6 Gen 3 / 8GB RAM / 128GB,12,12
+Samsung Galaxy A17 5G,Smartphone,185000,6.7" PLS LCD / MediaTek Dimensity / 6GB RAM / 128GB,15,12
+Samsung Galaxy A15,Smartphone,145000,6.5" Super AMOLED / MediaTek Helio G99 / 4GB RAM / 128GB,18,12
+Samsung Galaxy Z Fold6,Smartphone,1850000,7.6" Foldable AMOLED / Snapdragon 8 Gen 3 / 12GB RAM / 256GB,2,12
+Samsung Galaxy Z Flip6,Smartphone,980000,6.7" Foldable AMOLED / Snapdragon 8 Gen 3 / 12GB RAM / 256GB,3,12
+Samsung Galaxy Tab S9,Tablet,650000,11" Dynamic AMOLED / Snapdragon 8 Gen 2 / 8GB RAM / 128GB,4,12
+Samsung Galaxy Tab A9+,Tablet,185000,11" TFT / Snapdragon 695 / 4GB RAM / 64GB,8,12
+iPhone 18 Pro Max,Smartphone,1950000,6.9" Super Retina XDR / A20 Pro / 8GB RAM / 256GB,2,12
+iPhone 18 Pro,Smartphone,1650000,6.3" Super Retina XDR / A20 Pro / 8GB RAM / 256GB,3,12
+iPhone 17 Pro Max,Smartphone,1550000,6.9" Super Retina XDR / A19 Pro / 8GB RAM / 256GB,3,12
+iPhone 17 Pro,Smartphone,1350000,6.3" Super Retina XDR / A19 Pro / 8GB RAM / 256GB,4,12
+iPhone 17,Smartphone,980000,6.3" Super Retina XDR / A19 / 8GB RAM / 256GB,5,12
+iPhone 16 Pro Max,Smartphone,1250000,6.9" Super Retina XDR / A18 Pro / 8GB RAM / 256GB,4,12
+iPhone 16 Pro,Smartphone,1050000,6.3" Super Retina XDR / A18 Pro / 8GB RAM / 256GB,5,12
+iPhone 16,Smartphone,850000,6.1" Super Retina XDR / A18 / 8GB RAM / 128GB,6,12
+iPhone 15,Smartphone,720000,6.1" Super Retina XDR / A16 Bionic / 6GB RAM / 128GB,7,12
+iPhone 14,Smartphone,580000,6.1" Super Retina XDR / A15 Bionic / 6GB RAM / 128GB,8,12
+iPhone 13,Smartphone,480000,6.1" Super Retina XDR / A15 Bionic / 4GB RAM / 128GB,10,12
+iPhone 12,Smartphone,380000,6.1" Super Retina XDR / A14 Bionic / 4GB RAM / 64GB,6,12
+iPhone SE 3rd Gen,Smartphone,320000,4.7" Retina HD / A15 Bionic / 4GB RAM / 64GB,5,12
+iPad Pro 13 M4,Tablet,1450000,13" Ultra Retina XDR / M4 / 8GB RAM / 256GB,2,12
+iPad Air M2,Tablet,850000,11" Liquid Retina / M2 / 8GB RAM / 128GB,4,12
+iPad 10th Gen,Tablet,450000,10.9" Liquid Retina / A14 Bionic / 4GB RAM / 64GB,6,12
+MacBook Air M3,Laptop,1450000,Apple M3 / 8GB RAM / 256GB SSD / 13.6" Liquid Retina,4,12
+MacBook Air M2,Laptop,1150000,Apple M2 / 8GB RAM / 256GB SSD / 13.6" Liquid Retina,5,12
+MacBook Pro 14 M3,Laptop,2250000,Apple M3 Pro / 18GB RAM / 512GB SSD / 14.2" Liquid Retina XDR,2,12
+MacBook Pro 16 M3,Laptop,2850000,Apple M3 Pro / 18GB RAM / 512GB SSD / 16.2" Liquid Retina XDR,2,12
+HP EliteBook 840 G8,Laptop,520000,i5 11th gen / 16GB RAM / 512GB SSD / 14" FHD,6,6
+HP EliteBook 840 G7,Laptop,450000,i5 10th gen / 16GB RAM / 512GB SSD / 14" FHD,8,6
+HP EliteBook 840 G6,Laptop,380000,i5 8th gen / 16GB RAM / 512GB SSD / 14" FHD,10,6
+HP EliteBook 840 G5,Laptop,285000,i7 8th gen / 16GB RAM / 512GB SSD / 14" FHD,8,6
+HP ProBook 450 G9,Laptop,395000,i5 12th gen / 8GB RAM / 512GB SSD / 15.6" FHD,5,12
+HP ProBook 450 G8,Laptop,320000,i5 11th gen / 8GB RAM / 512GB SSD / 15.6" FHD,7,12
+HP Pavilion 15,Laptop,480000,i5 12th gen / 8GB RAM / 512GB SSD / 15.6" FHD,6,12
+Dell Latitude 7490,Laptop,265000,i7 8th gen / 8GB RAM / 256GB SSD / 14" FHD,10,6
+Dell Latitude 7420,Laptop,420000,i5 11th gen / 16GB RAM / 512GB SSD / 14" FHD,6,6
+Dell Latitude 5430,Laptop,480000,i5 12th gen / 16GB RAM / 512GB SSD / 14" FHD,5,12
+Dell XPS 13 9315,Laptop,950000,i7 12th gen / 16GB RAM / 512GB SSD / 13.4" FHD+,3,12
+Dell Inspiron 15 3520,Laptop,385000,i5 12th gen / 8GB RAM / 512GB SSD / 15.6" FHD,8,12
+Lenovo ThinkPad T480,Laptop,240000,i5 8th gen / 8GB RAM / 256GB SSD / 14" FHD,12,6
+Lenovo ThinkPad T14 Gen 3,Laptop,520000,i5 12th gen / 16GB RAM / 512GB SSD / 14" FHD,5,12
+Lenovo ThinkPad X1 Carbon Gen 9,Laptop,650000,i7 11th gen / 16GB RAM / 512GB SSD / 14" FHD,3,12
+Lenovo IdeaPad 3,Laptop,320000,i5 11th gen / 8GB RAM / 512GB SSD / 15.6" FHD,9,12
+Acer Aspire 5,Laptop,320000,Ryzen 5 5500U / 8GB RAM / 512GB SSD / 15.6" FHD,7,12
+Google Pixel 11 Pro,Smartphone,980000,6.3" LTPO OLED / Tensor G6 / 12GB RAM / 256GB,3,12
+Google Pixel 11,Smartphone,720000,6.3" OLED / Tensor G6 / 8GB RAM / 128GB,4,12
+Google Pixel 10 Pro,Smartphone,850000,6.3" LTPO OLED / Tensor G5 / 12GB RAM / 256GB,4,12
+Google Pixel 10,Smartphone,620000,6.3" OLED / Tensor G5 / 8GB RAM / 128GB,5,12
+Google Pixel 9,Smartphone,550000,6.3" OLED / Tensor G4 / 8GB RAM / 128GB,6,12
+Google Pixel 8a,Smartphone,380000,6.1" OLED / Tensor G3 / 8GB RAM / 128GB,7,12
+Google Pixel 7a,Smartphone,280000,6.1" OLED / Tensor G2 / 8GB RAM / 128GB,5,12
