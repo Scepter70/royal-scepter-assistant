@@ -3,7 +3,7 @@
 An AI-powered customer assistant for **Royal Scepter Computers & Video Games** — a computer and phone retail shop in Lagos, Nigeria. It answers customer questions about products, prices, Nigerian VAT, delivery fees and warranty using an LLM agent with tools — never hallucinated facts.
 
 ## 🔗 Live Demo
-Deployed on Streamlit Community Cloud: **https://scepter70-royal-scepter-assistant.streamlit.app**
+Deployed on Streamlit Community Cloud: **https://royal-scepter-assistant-dbfzn6vcn3x2wbb7az987t.streamlit.app/**
 
 *(Hugging Face Space also available: https://huggingface.co/spaces/sixtus70/royal-scepter-assistant)*
 
